@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-10-23 00:27:27 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 00:57:10 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-23 01:18:37 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-10-23 01:21:47 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-10-23 01:23:40 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-10-23 01:23:40 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-10-23 01:32:05 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-10-23 01:32:05 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-10-23 01:34:59 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-10-23 01:34:59 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228

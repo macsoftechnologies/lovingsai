@@ -1,0 +1,64 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:05:05 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:28 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:28 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:28 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:28 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:28 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:28 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:28 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:28 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:29 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:29 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:29 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:29 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:29 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:29 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:29 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:29 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:29 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:29 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 00:19:29 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 02:53:37 --> Severity: Notice --> Undefined property: stdClass::$nurse_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/nurse/index.php 69
+ERROR - 2023-10-21 02:53:37 --> Severity: Notice --> Undefined property: stdClass::$nurse_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/nurse/index.php 73
+ERROR - 2023-10-21 12:53:22 --> Severity: Notice --> Trying to access array offset on value of type null /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/controllers/Presciption.php 268
+ERROR - 2023-10-21 12:53:22 --> Severity: Notice --> Trying to access array offset on value of type null /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/controllers/Presciption.php 269
+ERROR - 2023-10-21 12:53:22 --> Severity: Notice --> Trying to access array offset on value of type null /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/controllers/Presciption.php 270
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63
+ERROR - 2023-10-21 12:57:34 --> Severity: Notice --> Undefined property: stdClass::$admin_id /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/labbills/index.php 63

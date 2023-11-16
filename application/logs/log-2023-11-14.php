@@ -1,0 +1,39 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-11-14 07:15:01 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 08:46:11 --> Severity: Notice --> Undefined variable: presciptions /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/sales/view.php 499
+ERROR - 2023-11-14 08:46:11 --> Severity: Notice --> Trying to access array offset on value of type null /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/sales/view.php 499
+ERROR - 2023-11-14 08:49:27 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 08:49:37 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 08:49:40 --> Severity: Notice --> Undefined index: no /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/edit.php 144
+ERROR - 2023-11-14 08:49:58 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 09:14:27 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 09:14:35 --> Severity: Notice --> Undefined index: no /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/edit.php 144
+ERROR - 2023-11-14 09:15:02 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 09:16:20 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 09:17:55 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 09:17:55 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 09:18:01 --> Severity: Notice --> Undefined index: no /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/edit.php 144
+ERROR - 2023-11-14 09:18:17 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 09:18:17 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 09:18:22 --> Severity: Notice --> Undefined index: no /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/edit.php 144
+ERROR - 2023-11-14 09:18:31 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 09:18:31 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 09:18:38 --> Severity: Notice --> Undefined index: no /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/edit.php 144
+ERROR - 2023-11-14 09:18:43 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 09:18:43 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 09:18:58 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 13:08:09 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 13:08:09 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 14:25:42 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 14:25:42 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 14:46:29 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 14:46:29 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 16:38:25 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 16:38:25 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 17:13:07 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 17:13:07 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 17:14:00 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 17:14:00 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 17:14:28 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
+ERROR - 2023-11-14 17:14:35 --> Severity: Notice --> Undefined property: stdClass::$email /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/macsofin/HMSCII/application/views/patient/index.php 228
